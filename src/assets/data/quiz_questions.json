@@ -1,0 +1,92 @@
+{
+    "title":"Which hero are you?",
+    "questions":[
+        {
+            "id":1,
+            "question":"PICK AN EMOJI",
+            "options":[
+                {"id": 1, "name":"⚔️", "alias":"A"},
+                {"id": 2, "name":"🌊", "alias":"P"},
+                {"id": 3, "name":"🍃", "alias":"G"}
+            ]
+        },
+        {
+            "id":2,
+            "question":"YOUR FAVORITE ACTIVITY?",
+            "options":[
+                {"id": 1, "name":"Strategy games", "alias":"A"},
+                {"id": 2, "name":"Hiking", "alias":"G"}
+            ]
+        },
+        {
+            "id":3,
+            "question":"SOMETHING YOU HATE?",
+            "options":[
+                {"id": 1, "name":"Bullies", "alias":"P"},
+                {"id": 2, "name":"Procrastinating", "alias":"A"}
+            ]
+        },
+        {
+            "id":4,
+            "question":"WHAT PATH DO YOU TAKE?",
+            "options":[
+                {"id": 1, "name":"Forest", "alias":"G"},
+                {"id": 2, "name":"Lakeside", "alias":"P"}
+            ]
+        },
+        {
+            "id":5,
+            "question":"WHAT MOTIVATES YOU",
+            "options":[
+                {"id": 1, "name":"Compassion", "alias":"G"},
+                {"id": 2, "name":"Logic", "alias":"A"}
+            ]
+        },
+        {
+            "id":6,
+            "question":"FACED WITH A DIFFICULT PROBLEM, YOU?",
+            "options":[
+                {"id": 1, "name":"Make a plan", "alias":"A"},
+                {"id": 2, "name":"Go with the flow", "alias":"P"},
+                {"id": 3, "name":"Seek advice from friends", "alias":"G"}
+            ]
+        },
+        {
+            "id":7,
+            "question":"YOUR IDEAL PET WOULD BE...",
+            "options":[
+                {"id": 1, "name":"Powerful and strong", "alias":"P"},
+                {"id": 2, "name":"Loyal and protective", "alias":"G"}
+            ]
+        },
+        {
+            "id":8,
+            "question":"IF YOU HAD A SUPERPOWER IT WOULD BE...",
+            "options":[
+                {"id": 1, "name":"All-knowing", "alias":"A"},
+                {"id": 2, "name":"All-powerful", "alias":"P"}
+            ]
+        },
+        {
+            "id":9,
+            "question":"AT A PARTY YOU USUALLY...",
+            "options":[
+                {"id": 1, "name":"Offer to DJ", "alias":"G"},
+                {"id": 2, "name":"Jump into the pool", "alias":"P"}
+            ]
+        },
+        {
+            "id":10,
+            "question":"PICK A MYTHICAL CREATURE",
+            "options":[
+                {"id": 1, "name":"Pegasus", "alias":"A"},
+                {"id": 2, "name":"Satyr", "alias":"G"}
+            ]
+        }
+    ],
+    "results":{
+        "A": "⚔️ Annabeth ⚔️",
+        "G": "🍃 Grover 🍃",
+        "P": "🌊 Percy 🌊"
+    }
+}
